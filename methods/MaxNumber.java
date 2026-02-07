@@ -1,5 +1,6 @@
 package Methods;
 
+
 import java.util.Scanner;
 
 public class MaxNumber {
